@@ -9,6 +9,7 @@
         Reblum
       </NuxtLink>
 
+      <!-- Placeholder for login/logout button, to be implemented using candidate's backend -->
       <div class="min-w-32 h-10 rounded-full bg-zinc-800"></div>
     </div>
   </header>
